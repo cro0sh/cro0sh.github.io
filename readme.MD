@@ -1,1 +1,1 @@
-test
+This is an R script to create a bunch of graphs and analysis of kaggles data on video games. It was a joy to do. Thank you.
